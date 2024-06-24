@@ -1,5 +1,8 @@
 package au.edu.jcu.my.affirmations.data
 
+import au.edu.jcu.my.affirmations.R
+import au.edu.jcu.my.affirmations.model.Affirmation
+
 class Datasource {
     fun loadAffirmations(): List<Affirmation> {
         return listOf<Affirmation>(
