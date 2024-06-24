@@ -1,12 +1,12 @@
-package au.edu.jcu.affirmations.adapter
+package au.edu.jcu.my.affirmations.adapter
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import au.edu.jcu.affirmations.R
-import au.edu.jcu.affirmations.model.Affirmation
+import au.edu.jcu.my.affirmations.R
+import au.edu.jcu.my.affirmations.model.Affirmation
 /**
  * Adapter for the [RecyclerView] in [MainActivity]. Displays [Affirmation]
 data object.
